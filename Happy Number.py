@@ -20,3 +20,4 @@ class Solution:
             n = total
 
         return True
+    # runtime = 0ms memory = 12.27mb
